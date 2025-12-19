@@ -1,0 +1,10 @@
+2025-12-19 14:43:39,363 - WARNING - Duplicate login emp 1
+2025-12-19 14:44:49,094 - WARNING - Duplicate login emp 1
+2025-12-19 16:42:30,256 - WARNING - Duplicate login emp 1
+2025-12-19 17:12:47,472 - WARNING - Duplicate login emp 3
+2025-12-19 17:30:00,059 - INFO - Employee 2 logged in
+2025-12-19 17:30:11,101 - INFO - Employee 2 logged out, hours: 0.0
+2025-12-19 17:45:59,289 - WARNING - Duplicate login attempt: emp 1
+2025-12-19 17:46:07,131 - INFO - Employee 1 logged out, hours: 0.52
+2025-12-19 22:05:00,535 - INFO - Employee 3 logged in
+2025-12-19 22:10:03,388 - INFO - Employee 3 logged out
